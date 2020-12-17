@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+.x_axis path,
+.x_axis line,
+.y_axis path,
+.y_axis line
+{
+ fill: none;
+ stroke: #5B6770;
+ stroke-width: 1.5px;
+ shape-rendering: crispEdges;
+}
+
+.x_axis text,
+.y_axis text
+{
+ font-size: 12px;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+ color: #555555;
+}
+
+.line {
+ fill: none;
+ stroke: #E04E39;
+ stroke-width: 2px;
+}
+.circle {
+fill: #E04E39;
+fill-opacity: 1;
+stroke: #E04E39;
+stroke-width: 1.5px;
+}
+.area {
+  fill: #E04E39;
+}
+rect.pane {
+
+fill: none;
+pointer-events: all;
+}
+
+div.tooltip_box {
+  position: absolute;
+  padding: 8px;
+  padding-left: 25px;
+  font: 15px;
+  pointer-events: none;
+}
+.selectors {
+  margin-left: 25px;
+
+}
+.well{
+        padding-bottom: 55px;
+
+        }
+select{
+        width:auto;
+}

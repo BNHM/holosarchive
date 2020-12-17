@@ -1,0 +1,59 @@
+.stamenCustomFrame {
+    margin-top: -21px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+}
+
+.stamen-ecoengine .map-area {
+    height: auto;
+}
+
+
+.stamen-ecoengine .header {
+    position:relative;
+    z-index: 1;
+}
+
+.stamen-ecoengine .flydown {
+    top:62px;
+}
+
+.stamen-ecoengine #facets {
+    top:100px;
+}
+
+.stamen-ecoengine #map {
+    margin: 0 0 0 24%;
+    width: auto;
+}
+
+.ecoengine-compare #map {
+    width: auto;
+}
+
+.ecoengine-compare #legend-layer-menu {
+    margin-top: 65px;
+}
+
+.progress {
+    min-height: 30px;
+}
+
+.label {
+    color: black;
+		placeholder: "xyz";
+}
+
+.input-form-element {
+    font-size:85%;
+}
+.close {
+    font-size:100%;
+}
+
+.close {
+    font-size:100%
+}
